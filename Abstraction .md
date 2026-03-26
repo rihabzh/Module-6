@@ -66,6 +66,6 @@ print("Area of a square:", s.area())
 print("Area of a triangle:", t.area()) 
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 190332.png>)
 ## Result
 Thus the program to create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle is executed successfully.
