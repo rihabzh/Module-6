@@ -50,6 +50,6 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 190357.png>)
 ## Result
 Thus the program To create two specific classes — Beans and Mango. Then, create a generic function that can accept any object and determine its type (Fruit or Vegetable) and color, using polymorphism is executed successfully.
