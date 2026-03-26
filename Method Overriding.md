@@ -29,6 +29,6 @@ for sea in seas:
     sea.type()
 ```
 ## OUTPUT
-
+![alt text](<Screenshot 2026-03-26 190343.png>)
 ## RESULT
 Thus the program that demonstrates class inheritance by creating a parent class Fish with a method type, and a child class Shark that overrides the type method is executed successfully
