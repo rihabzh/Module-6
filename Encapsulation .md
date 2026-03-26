@@ -36,6 +36,8 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
   obj = Rectangle()
 ```
 ## Output
+![alt text](<Screenshot 2026-03-26 190338.png>)
+
 
 ## Result
 Thus the program to implement Encapsulation in Python by defining a class Rectangle with private member variables __length and __breadth is executed successfully.
