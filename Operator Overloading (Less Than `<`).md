@@ -40,6 +40,7 @@ else:
     print("ob1 is less than ob2")
 ```
 ## Output
+![alt text](<Screenshot 2026-03-26 190351.png>)
 
 ## Result
 Thus the program that demonstrates operator overloading by overloading the less than (<) operator using a custom class is executed successfully.
